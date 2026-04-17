@@ -31,15 +31,22 @@ Each stage is implemented as a modular chain using LangChain.
 
 ---
 
+
+---
+
+
 ## 📂 Project Structure
+
+<pre>
 resume_screening/
 │
-├── prompts/ # Prompt templates
-├── chains/ # LangChain pipeline components
-├── data/ # Resume + Job Description
-├── outputs/ # Generated results (JSON + TXT)
-├── utils/ # LLM setup
-├── main.py # Pipeline execution
+├── prompts/        # Prompt templates
+├── chains/         # LangChain pipeline components
+├── data/           # Resume + Job Description
+├── outputs/        # Generated results (JSON + TXT)
+├── utils/          # LLM setup
+└── main.py         # Pipeline execution
+</pre>
 
 
 
