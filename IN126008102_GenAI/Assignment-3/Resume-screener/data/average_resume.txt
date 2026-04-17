@@ -1,0 +1,18 @@
+Name: Priya Sharma
+Location: Chennai, India
+Email: priya.sharma@gmail.com
+
+Summary:
+Aspiring Data Scientist with internship experience in data analysis and machine learning.
+
+Skills:
+Python, Machine Learning, Data Analysis, Pandas, NumPy
+
+Experience:
+Data Science Intern at Wipro (2023)
+- Worked on AI models during internship
+- Performed data cleaning and analysis
+
+Projects:
+- House price prediction using regression
+- Data visualization dashboard using Python

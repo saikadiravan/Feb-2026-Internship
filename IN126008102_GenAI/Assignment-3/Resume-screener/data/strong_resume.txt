@@ -1,0 +1,22 @@
+Name: Arjun Mehta
+Location: Bangalore, India
+Email: arjun.mehta@gmail.com
+
+Summary:
+Data Scientist with 3+ years of experience in machine learning, deep learning, and data analysis.
+
+Skills:
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Data Analysis, Data Visualization
+
+Experience:
+Data Scientist at Infosys (2022–Present)
+- Built predictive models for customer analytics
+- Worked on deep learning models for image classification
+- Deployed ML models using Python
+
+Data Analyst at TCS (2021–2022)
+- Performed data analysis and visualization using Python
+
+Projects:
+- Customer churn prediction using ML
+- Image classification using CNN

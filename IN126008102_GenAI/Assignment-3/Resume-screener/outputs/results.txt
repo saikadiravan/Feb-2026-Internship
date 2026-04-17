@@ -1,0 +1,80 @@
+
+================ Strong Candidate ================
+Score:
+Since all the required skills mentioned in the job description are matched in the resume, the candidate should receive a high score. Given that there are no missing skills, the score should be close to the maximum.
+
+{
+  "score": 100
+}
+
+Explanation:
+* **Strengths**: 
+  * The candidate has all the required skills mentioned in the job description, including Python, Machine Learning, Deep Learning, TensorFlow, SQL, Data Analysis, and Data Visualization.
+  * The candidate's experience as a Data Scientist and Data Analyst is relevant to the job.
+* **Weaknesses**: 
+  * There are no weaknesses mentioned in the given data, as the candidate's skills match all the requirements.
+* **Final Reasoning**: 
+  * The candidate received a score of 100 because they have all the required skills mentioned in the job description, with no missing skills.
+  * The presence of relevant experience and the matching of all required skills justify a perfect score, indicating that the candidate is highly qualified for the position.
+
+------------------------------------------------------------
+
+================ Average Candidate ================
+Score:
+To determine the score, let's analyze the matched and missing skills.
+
+The candidate has matched the following skills:
+- Python
+- Machine Learning
+- Data Analysis
+
+However, the candidate is missing the following important skills:
+- Deep Learning
+- TensorFlow or PyTorch
+- Data visualization
+- SQL
+
+Given that the candidate has a basic background in IT/CS (as evidenced by the skills mentioned in the resume), they should receive a minimum score. 
+
+Since most required skills are missing, the score should be below 40. Considering the candidate has matched some skills, but is missing crucial ones like Deep Learning, TensorFlow/PyTorch, and SQL, a score of 30 seems reasonable.
+
+Output:
+```
+{
+  "score": 30
+}
+```
+
+Explanation:
+* **Strengths**: 
+  * The candidate has a background in Python, Machine Learning, and Data Analysis, which are relevant skills for the job.
+  * The candidate has some experience in the field, having worked as a Data Science Intern for 1 year.
+* **Weaknesses**: 
+  * The candidate lacks important skills required for the job, including Deep Learning, TensorFlow or PyTorch, Data visualization, and SQL.
+  * The candidate's skills in Data Analysis do not fully match the job requirement of "data analysis and visualization".
+* **Final Reasoning**: 
+  * The candidate's score is 30 because they have matched some basic skills required for the job, but are missing crucial skills like Deep Learning, TensorFlow/PyTorch, and SQL.
+  * The candidate's limited experience and lack of key skills justify a score below 40.
+  * A score of 30 is reasonable, considering the candidate has some relevant skills, but is not a strong fit for the job due to the missing skills.
+
+------------------------------------------------------------
+
+================ Weak Candidate ================
+Score:
+Based on the provided data, the candidate's resume does not match any of the required skills for the job. However, since the candidate has basic computer knowledge, they should not receive a score of 0. Considering the candidate has a basic or related background (e.g., basic computer knowledge), a minimum score between 5-20 is appropriate.
+
+Given that most required skills are missing, the score should be below 40. Since none of the required skills are matched, the score should be at the lower end of the scale.
+
+Output:
+```
+{
+  "score": 10
+}
+```
+
+Explanation:
+* **Strengths**: The candidate has basic computer knowledge, as well as skills in MS Excel and PowerPoint, which could be considered a foundation for further learning and development.
+* **Weaknesses**: The candidate's resume does not match any of the required skills for the job, including key skills such as Python, Machine Learning, and Data analysis.
+* **Final Reasoning**: Given the significant mismatch between the candidate's skills and the job requirements, the candidate's score is 10, which is at the lower end of the scale. This score reflects the candidate's limited relevant skills and experience, but also acknowledges their basic computer knowledge and potential for further development.
+
+------------------------------------------------------------

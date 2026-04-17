@@ -1,0 +1,16 @@
+Name: Rahul Verma
+Location: Delhi, India
+Email: rahul.verma@gmail.com
+
+Summary:
+Recent graduate looking for opportunities in IT.
+
+Skills:
+MS Excel, PowerPoint, Basic Computer Knowledge
+
+Experience:
+Fresher
+
+Projects:
+- Created presentations in PowerPoint
+- Worked on Excel sheets for college assignments

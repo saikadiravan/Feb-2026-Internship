@@ -1,0 +1,15 @@
+Job Role: Data Scientist
+
+We are looking for a Data Scientist with the following qualifications:
+
+- Strong knowledge of Python
+- Experience in Machine Learning and Deep Learning
+- Familiarity with TensorFlow or PyTorch
+- Data analysis and visualization skills
+- Experience with SQL
+- Minimum 2 years of experience in data-related roles
+
+Responsibilities:
+- Build predictive models
+- Analyze large datasets
+- Deploy machine learning models
